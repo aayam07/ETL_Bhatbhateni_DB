@@ -1,0 +1,93 @@
+30-Apr-24 17:18:40 - [SUCCESS] Establish connection to snowflake
+30-Apr-24 17:22:54 - [SUCCESS] Establish connection to snowflake
+30-Apr-24 17:23:04 - [Success] File Staging Complete. 
+
+30-Apr-24 17:23:10 - [Success] Created category tables in all schemas.
+30-Apr-24 17:23:11 - [Success] Created country tables in all schemas.
+30-Apr-24 17:23:12 - [Success] Created customer tables in all schemas.
+30-Apr-24 17:23:14 - [Success] Created subcategory tables in all schemas.
+30-Apr-24 17:23:15 - [Success] Created product tables in all schemas.
+30-Apr-24 17:23:16 - [Success] Created region tables in all schemas.
+30-Apr-24 17:23:18 - [Success] Created store tables in all schemas.
+30-Apr-24 17:23:20 - [Success] Created sales tables in all schemas.
+30-Apr-24 17:23:20 - Category ETL Started ...
+30-Apr-24 17:23:20 - STG_D_CATEGORY_LU truncated successfully! 
+
+30-Apr-24 17:23:22 - [Success] Loaded CATEGORY to STG.
+30-Apr-24 17:23:23 - TMP_D_CATEGORY_LU truncated successfully! 
+
+30-Apr-24 17:23:24 - [Success] Loaded CATEGORY to TMP.
+30-Apr-24 17:23:28 - [Success] Loaded CATEGORY to TGT.
+30-Apr-24 17:23:28 - Category ETL Completed.
+
+30-Apr-24 17:23:28 - Country ETL Started ...
+30-Apr-24 17:23:28 - STG_D_COUNTRY_LU truncated successfully! 
+
+30-Apr-24 17:23:29 - [Success] Loaded COUNTRY to STG.
+30-Apr-24 17:23:30 - TMP_D_COUNTRY_LU truncated successfully! 
+
+30-Apr-24 17:23:31 - [Success] Loaded COUNTRY to TMP.
+30-Apr-24 17:23:34 - [Success] Loaded COUNTRY to TGT.
+30-Apr-24 17:23:34 - Country ETL Completed.
+
+30-Apr-24 17:23:34 - Customer ETL Started ...
+30-Apr-24 17:23:34 - STG_D_CUSTOMER_LU truncated successfully! 
+
+30-Apr-24 17:23:35 - [Success] Loaded CUSTOMER to STG.
+30-Apr-24 17:23:36 - TMP_D_CUSTOMER_LU truncated successfully! 
+
+30-Apr-24 17:23:36 - [Success] Loaded CUSTOMER to TMP.
+30-Apr-24 17:23:40 - [Success] Loaded CUSTOMER to TGT.
+30-Apr-24 17:23:40 - Customer ETL Completed.
+
+30-Apr-24 17:23:40 - Sub-category ETL Started ...
+30-Apr-24 17:23:41 - STG_D_SUBCATEGORY_LU truncated successfully! 
+
+30-Apr-24 17:23:42 - [Success] Loaded SUBCATEGORY to STG.
+30-Apr-24 17:23:42 - TMP_D_SUBCATEGORY_LU truncated successfully! 
+
+30-Apr-24 17:23:43 - [Success] Loaded SUBCATEGORY to TMP.
+30-Apr-24 17:23:48 - [Success] Loaded SUB-CATEGORY to TGT.
+30-Apr-24 17:23:48 - Subcategory ETL Completed.
+
+30-Apr-24 17:23:48 - Product ETL Started ...
+30-Apr-24 17:23:49 - STG_D_PRODUCT_LU truncated successfully! 
+
+30-Apr-24 17:23:50 - [Success] Loaded PRODUCT to STG.
+30-Apr-24 17:23:51 - TMP_D_PRODUCT_LU truncated successfully! 
+
+30-Apr-24 17:23:51 - [Success] Loaded PRODUCT to TMP.
+30-Apr-24 17:23:56 - [Success] Loaded PRODUCT to TGT.
+30-Apr-24 17:23:56 - Product ETL Completed.
+
+30-Apr-24 17:23:56 - Region ETL Started ...
+30-Apr-24 17:23:57 - STG_D_REGION_LU truncated successfully! 
+
+30-Apr-24 17:23:58 - [Success] Loaded REGION to STG.
+30-Apr-24 17:23:58 - TMP_D_REGION_LU truncated successfully! 
+
+30-Apr-24 17:23:59 - [Success] Loaded REGION to TMP.
+30-Apr-24 17:24:03 - [Success] Loaded REGION to TGT.
+30-Apr-24 17:24:03 - Region ETL Completed.
+
+30-Apr-24 17:24:03 - Store ETL Started ...
+30-Apr-24 17:24:04 - STG_D_STORE_LU truncated successfully! 
+
+30-Apr-24 17:24:05 - [Success] Loaded STORE to STG.
+30-Apr-24 17:24:06 - TMP_D_STORE_LU truncated successfully! 
+
+30-Apr-24 17:24:06 - [Success] Loaded STORE to TMP.
+30-Apr-24 17:24:11 - [Success] Loaded STORE to TGT.
+30-Apr-24 17:24:11 - Store ETL Completed.
+
+30-Apr-24 17:24:11 - Sales ETL Started ...
+30-Apr-24 17:24:12 - STG_F_SALES truncated successfully! 
+
+30-Apr-24 17:24:13 - [Success] Loaded SALES to STG.
+30-Apr-24 17:24:13 - TMP_F_SALES truncated successfully! 
+
+30-Apr-24 17:24:14 - [Success] Loaded SALES to TMP.
+30-Apr-24 17:24:16 - [Success] Loaded SALES to TGT.
+30-Apr-24 17:24:16 - Sales ETL Completed.
+
+01-May-24 09:01:52 - [SUCCESS] Establish connection to snowflake
